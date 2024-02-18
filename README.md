@@ -8,3 +8,5 @@ This repo will be used for learning some of the git workflows to collaborate to 
 - Kishwar Maheen
 - Ahmed Bin Nasser
 - Tasfiat Zabir Khan
+- Rayhan Khan
+  
