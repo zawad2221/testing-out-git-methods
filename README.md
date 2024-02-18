@@ -2,7 +2,6 @@
 
 This repo will be used for learning some of the git workflows to collaborate to projects more efficiently and effectively.
 
-
 ## Participants
 
-- Moin Khan Robin
+- MD Moin Khan Robin
